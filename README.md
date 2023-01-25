@@ -1,6 +1,6 @@
-## Olá, seja bem vindo ao meu GitHub 👋😬
+## Olá, seja bem vindo ao meu GitHub ✅
 
-💼 - Estou iniciando minha carreira na área da tecnologia, área na qual sou apaixonado.
+💼 - Estou iniciando minha carreira na área da tecnologia, área na qual sou apaixonado. 💙
 
-📚 - estudando JAVA e SQL.
+🌱 - estudando JAVA e SQL.
 
